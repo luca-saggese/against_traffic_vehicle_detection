@@ -11,3 +11,13 @@ https://github.com/dungdo123/Vehicle_Speed_Estimation_Using_pretrained_Yolo_Open
 https://github.com/bamwani/car-counting-and-speed-estimation-yolo-sort-python
 
 https://www.youtube.com/watch?v=b88UguGdwE0
+
+https://github.com/soubhikmandal2000/Real-time-traffic-rule-monitoring-system
+
+https://github.com/omkarkumbhar000/TrafficviolationDetectionUsingOpenCV-
+
+https://github.com/sowmyabalam/anomaly-detection-in-traffic-videos-using-opencv--python
+
+https://github.com/AnupKumarPanwar/Traffic-violation-detection
+
+https://github.com/SumeetGadewar27/TrafficviolationDetectionUsingOpenCV
